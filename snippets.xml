@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+    <snippet group="Text" trigger="baodebug" id="" complement="" removed="false" modified="false">qDebug() &lt;&lt; &quot;$Text$ = &quot; &lt;&lt; $Text$;</snippet>
+    <snippet group="Text" trigger="baodebug2" id="" complement="" removed="false" modified="false">qDebug() &lt;&lt; &quot; = &quot; &lt;&lt; ;</snippet>
+    <snippet group="Text" trigger="baodebugText" id="" complement="" removed="false" modified="false">qDebug() &lt;&lt; &quot;$Text$&quot;;</snippet>
+    <snippet group="Text" trigger="baofori" id="" complement="" removed="false" modified="false">for (int i = 0; i &lt; $total$; i++)
+{
+    $$
+}</snippet>
+    <snippet group="Text" trigger="baoforj" id="" complement="" removed="false" modified="false">for (int j = 0; j &lt; $total$; j++)
+{
+    $$
+}</snippet>
+    <snippet group="Text" trigger="baoforn" id="" complement="" removed="false" modified="false">for (int $var$ = 0; $var$ &lt; $total$; ++$var$)
+{
+    $$
+}</snippet>
+    <snippet group="Text" trigger="baohLayout" id="" complement="" removed="false" modified="false">auto layout = new QHBoxLayout(this);
+layout-&gt;setSpacing(10);
+layout-&gt;setMargin(0);
+layout-&gt;addWidget(minBox,1);
+layout-&gt;addWidget(label,8);
+layout-&gt;addWidget(maxBox,1);</snippet>
+    <snippet group="Text" trigger="baohLayoutn" id="" complement="" removed="false" modified="false">auto $layout$ = new QHBoxLayout(this);
+$layout$-&gt;setSpacing(10);
+$layout$-&gt;setMargin(0);
+$layout$-&gt;addWidget(minBox,1);
+$layout$-&gt;addWidget(label,8);
+$layout$-&gt;addWidget(maxBox,1);</snippet>
+    <snippet group="Text" trigger="baomap" id="" complement="" removed="false" modified="false">for(auto it = $map$.begin(); it != $map$.end();it++)
+{
+    auto key = it.key();
+    auto value = it.value();
+}</snippet>
+    <snippet group="Text" trigger="baoString" id="" complement="" removed="false" modified="false">const QString &amp;$Text$</snippet>
+    <snippet group="Text" trigger="baoStringText" id="" complement="" removed="false" modified="false">const QString &amp;text</snippet>
+    <snippet group="Text" trigger="baotrtr" id="" complement="" removed="false" modified="false">tr(&quot;$Text$&quot;)</snippet>
+    <snippet group="Text" trigger="baoUTF" id="" complement="" removed="false" modified="false">#pragma execution_character_set(&quot;utf-8&quot;)</snippet>
+    <snippet group="Text" trigger="baoVLayout" id="" complement="" removed="false" modified="false">auto layout = new QVBoxLayout(this);
+layout-&gt;setSpacing(10);
+layout-&gt;setMargin(0);
+layout-&gt;addWidget(minBox,1);
+layout-&gt;addWidget(label,8);
+layout-&gt;addWidget(maxBox,1);</snippet>
+    <snippet group="Text" trigger="baoVLayoutn" id="" complement="" removed="false" modified="false">auto $layout$ = new QVBoxLayout(this);
+$layout$-&gt;setSpacing(10);
+$layout$-&gt;setMargin(0);
+$layout$-&gt;addWidget(minBox,1);
+$layout$-&gt;addWidget(label,8);
+$layout$-&gt;addWidget(maxBox,1);</snippet>
+</snippets>

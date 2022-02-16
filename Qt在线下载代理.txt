@@ -1,0 +1,3 @@
+urlreplace download.qt.io mirrors.tuna.tsinghua.edu.cn/qt
+
+urlreplace download.qt.io mirrors.cnnic.cn/qt
