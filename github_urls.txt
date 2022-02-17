@@ -55,3 +55,4 @@ https://gitee.com/woytu/NSIS_SetupSkin.git
 https://github.com/yardenshafir/PoolViewer.git
 https://github.com/yinkaisheng/Python-UIAutomation-for-Windows.git
 https://github.com/zhbin1022/QssStylesheetEditor.git
+https://github.com/continental/fineftp-server.git
